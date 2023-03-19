@@ -31,3 +31,17 @@ let calculations = ['='];
 ```
 
 [Source code](https://github.com/ezhb/calculator-on-JS) | [View the result](https://ezhb.github.io/calculator-on-JS/)
+
+## Work experience
+
+`2022-2023`
+
+__Improving your knowledge in Javascript, React__
+
+`2021-2022`
+
+__Self-education and increasing the level of knowledge, as well as the practical application of the theoretical knowledge gained.__
+
+## Level of English
+
+English at the level of reading documentation + basic language constructs. Conversational practice is not enough, since the customers were mostly Russian-speaking.
