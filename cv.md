@@ -16,7 +16,7 @@ I work in web development for a little over 1 year - freelance and project work.
 
 I am an easy learner, diligent and stress-resistant. I lead an active and healthy lifestyle, no bad habits.
 
-You can see some sample code on my [my github](https://github.com/ezhb)
+You can see some sample code on [my github](https://github.com/ezhb)
 
 ## My skills
 
